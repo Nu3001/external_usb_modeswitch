@@ -1,1 +1,1 @@
-# external_usb_modeswitch
+Android port of usb_modeswitch v 2.2.5

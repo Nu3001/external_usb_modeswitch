@@ -1,0 +1,6 @@
+# Nokia CS-18
+TargetVendor=0x0421
+TargetProductList="0612,0629"
+StandardEject=1
+DefaultVendor=0x0421
+DefaultProduct=0x0627

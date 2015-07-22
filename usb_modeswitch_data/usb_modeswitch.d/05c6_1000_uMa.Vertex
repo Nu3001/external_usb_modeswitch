@@ -1,0 +1,6 @@
+# Vertex Wireless 100 Series
+TargetVendor=0x1fe7
+TargetProduct=0x0100
+StandardEject=1
+DefaultVendor=0x05c6
+DefaultProduct=0x1000

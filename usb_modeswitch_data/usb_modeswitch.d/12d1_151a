@@ -1,0 +1,6 @@
+# Huawei E392u-12, E3131 (Variant)
+TargetVendor=0x12d1
+TargetProductList="151b,151d,151e"
+HuaweiNewMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0x151a

@@ -1,0 +1,5 @@
+# Huawei generic for Linux (fall-back for unknown products)
+TargetVendor= 0x12d1
+HuaweiNewMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0xlinux

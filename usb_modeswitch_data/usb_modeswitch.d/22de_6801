@@ -1,0 +1,5 @@
+# WeTelecom WM-D200
+TargetClass=0xff
+StandardEject=1
+DefaultVendor=0x22de
+DefaultProduct=0x6801

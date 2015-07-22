@@ -1,0 +1,6 @@
+# Vodafone / Huawei K3773
+TargetVendor=0x12d1
+TargetProduct=0x14bc
+HuaweiNewMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0x1f11

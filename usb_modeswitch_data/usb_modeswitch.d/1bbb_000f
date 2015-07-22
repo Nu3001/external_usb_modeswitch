@@ -1,0 +1,6 @@
+# ETCOM E300
+TargetVendor=0x1bbb
+TargetProduct=0x000f
+StandardEject=1
+DefaultVendor=0x1bbb
+DefaultProduct=0x000f

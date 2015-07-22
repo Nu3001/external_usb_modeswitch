@@ -1,0 +1,4 @@
+# Ericsson F5521gw
+Configuration=2
+DefaultVendor=0x0bdb
+DefaultProduct=0x190d
