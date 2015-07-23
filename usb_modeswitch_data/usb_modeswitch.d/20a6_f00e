@@ -1,0 +1,6 @@
+# Intex 3.5G
+TargetVendor=0x20a6
+TargetProduct=0x1105
+StandardEject=1
+DefaultVendor=0x20a6
+DefaultProduct=0xf00e

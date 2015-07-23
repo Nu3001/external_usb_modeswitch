@@ -1,0 +1,5 @@
+# Huawei BM358 WiMAX
+TargetClass=0x02
+StandardEject=1 
+DefaultVendor=0x12d1
+DefaultProduct=0x380b

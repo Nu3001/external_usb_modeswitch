@@ -1,0 +1,4 @@
+# Zoom 3G
+Configuration=3
+DefaultVendor=0x230d
+DefaultProduct=0x000b

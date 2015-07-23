@@ -1,0 +1,7 @@
+# Atheros Wireless / Netgear WNDA3200
+TargetVendor=0x0cf3
+TargetProduct=0x7010
+StandardEject=1
+NoDriverLoading=1
+DefaultVendor=0x0cf3
+DefaultProduct=0x20ff

@@ -1,0 +1,6 @@
+# K5005 Vodafone/Huawei
+TargetVendor=0x12d1
+TargetProduct=0x14c8
+HuaweiNewMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0x14c3

@@ -1,0 +1,4 @@
+# GW D301 (Advinne AMC)
+Configuration=3
+DefaultVendor=0x0fd1
+DefaultProduct=0x1000

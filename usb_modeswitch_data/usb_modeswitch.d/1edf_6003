@@ -1,0 +1,4 @@
+# AirPlus MCD-800
+Configuration=2
+DefaultVendor=0x1edf
+DefaultProduct=0x6003

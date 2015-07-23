@@ -1,0 +1,6 @@
+# ZTE AC581
+TargetVendor=0x19d2
+TargetProductList="0073,0094,0152"
+StandardEject=1
+DefaultVendor=0x19d2
+DefaultProduct=0x0026

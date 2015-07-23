@@ -1,0 +1,5 @@
+# Tlaytech TEU800
+TargetClass=0xff
+StandardEject=1
+DefaultVendor=0x20b9
+DefaultProduct=0x1682

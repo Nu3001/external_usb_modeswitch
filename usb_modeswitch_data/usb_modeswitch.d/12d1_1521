@@ -1,0 +1,6 @@
+# Huawei K4505
+TargetVendor=0x12d1
+TargetProduct=0x1464
+HuaweiNewMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0x1521

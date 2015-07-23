@@ -1,0 +1,4 @@
+# Nexperia TM TD-SCDMA
+Configuration=2
+DefaultVendor=0x04cc
+DefaultProduct=0x226e

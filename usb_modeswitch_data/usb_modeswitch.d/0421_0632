@@ -1,0 +1,6 @@
+# Nokia CS-7M-01
+TargetVendor=0x0421
+TargetProduct=0x0632
+StandardEject=1
+DefaultVendor=0x0421
+DefaultProduct=0x0632

@@ -1,0 +1,6 @@
+# Sunplus Techn. SU-3200U
+TargetVendor=0x04fc
+TargetProductList="0615,1240"
+MessageContent="55534243123456782400000080000612000024000000000000000000000000"
+DefaultVendor=0x04fc
+DefaultProduct=0x2140
