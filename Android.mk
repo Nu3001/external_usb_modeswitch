@@ -13,7 +13,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := usb_modeswitch.sh
 LOCAL_SRC_FILES := usb_modeswitch.sh
 LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/system/bin/usb_modeswitch.sh
+LOCAL_MODULE_PATH := $(TARGET_OUT)/system/bin/
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
