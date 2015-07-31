@@ -23,7 +23,6 @@ LOCAL_SRC_FILES := usb_modeswitch.conf
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/
 LOCAL_MODULE_TAGS := optional
-
 include $(BUILD_PREBUILT)
 
 ######################################
