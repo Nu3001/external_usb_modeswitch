@@ -3,6 +3,7 @@
 PRODUCT_PACKAGES += \
 	usb_modeswitch \
 	usb_modeswitch.sh \
+	usb_modeswitch.conf \
 	19d2_2004 \
 	19d2_0115 \
 	19d2_1420 \
