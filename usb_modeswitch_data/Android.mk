@@ -3,1944 +3,8 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_2004
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_2004
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0115
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0115
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1420
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1420
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1582
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1582
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7071
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7071
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6971
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6971
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5041
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5041
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04e8_f000_sMo.U209
-LOCAL_SRC_FILES := usb_modeswitch.d/04e8_f000_sMo.U209
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2020_f00e
-LOCAL_SRC_FILES := usb_modeswitch.d/2020_f00e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8200
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8200
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0009
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0009
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1210
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1210
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_060c
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_060c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5020
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5020
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0471_1237
-LOCAL_SRC_FILES := usb_modeswitch.d/0471_1237
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0bdb_1910
-LOCAL_SRC_FILES := usb_modeswitch.d/0bdb_1910
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.SAMSUNG
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.SAMSUNG
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1a8d_2000
-LOCAL_SRC_FILES := usb_modeswitch.d/1a8d_2000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7a01
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7a01
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0040
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0040
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7901
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7901
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8600
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8600
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 21f5_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/21f5_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1c1b
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1c1b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d357
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d357
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_613f
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_613f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_2001
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_2001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9401
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9401
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7271
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7271
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f17
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f17
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a405
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a405
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 106c_3b03
-LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b03
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1d09_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/1d09_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0325
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0325
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14d1
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14d1
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1da1
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1da1
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2077_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/2077_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1179
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1179
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7401
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7401
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1001
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_0637
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_0637
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9101
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9101
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1514
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1514
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04bb_bccd
-LOCAL_SRC_FILES := usb_modeswitch.d/04bb_bccd
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1614_0802
-LOCAL_SRC_FILES := usb_modeswitch.d/1614_0802
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_607f
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_607f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1413
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1413
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8400
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8400
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0922_1001
-LOCAL_SRC_FILES := usb_modeswitch.d/0922_1001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0bdb_190d
-LOCAL_SRC_FILES := usb_modeswitch.d/0bdb_190d
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a708
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a708
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d058
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d058
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1237
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1237
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0013
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0013
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d031
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d031
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1511
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1511
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_155b
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_155b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_c100
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_c100
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d057
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d057
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0d46_45a1
-LOCAL_SRC_FILES := usb_modeswitch.d/0d46_45a1
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_0010
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_0010
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_9000
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_9000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_157c
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_157c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1207
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1207
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 10a9_6080
-LOCAL_SRC_FILES := usb_modeswitch.d/10a9_6080
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1528
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1528
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0068
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0068
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_011f
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_011f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f16
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f16
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1219
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1219
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 03f0_002a
-LOCAL_SRC_FILES := usb_modeswitch.d/03f0_002a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7601
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7601
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_000b
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_000b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7706
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7706
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f18
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f18
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_004a
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_004a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_sVe.Option
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_sVe.Option
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_157d
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_157d
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_9200
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_9200
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 16d8_6804
-LOCAL_SRC_FILES := usb_modeswitch.d/16d8_6804
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_4007
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_4007
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_ffe6
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_ffe6
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04e8_689a
-LOCAL_SRC_FILES := usb_modeswitch.d/04e8_689a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 20b9_1682
-LOCAL_SRC_FILES := usb_modeswitch.d/20b9_1682
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0083_uPr.WCDMA
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0083_uPr.WCDMA
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d155
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d155
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1307_1169
-LOCAL_SRC_FILES := usb_modeswitch.d/1307_1169
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0060
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0060
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1d09_1021
-LOCAL_SRC_FILES := usb_modeswitch.d/1d09_1021
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0040
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0040
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0026
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0026
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8006
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8006
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f02
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f02
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0388
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0388
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0003
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1001
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.DGT
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.DGT
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9200
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9200
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0471_1210_uMa.Wisue
-LOCAL_SRC_FILES := usb_modeswitch.d/0471_1210_uMa.Wisue
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_61eb
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_61eb
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0cf3_20ff
-LOCAL_SRC_FILES := usb_modeswitch.d/0cf3_20ff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 15eb_7153
-LOCAL_SRC_FILES := usb_modeswitch.d/15eb_7153
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_98ff
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_98ff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0018
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0018
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0930_0d46
-LOCAL_SRC_FILES := usb_modeswitch.d/0930_0d46
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 148e_a000
-LOCAL_SRC_FILES := usb_modeswitch.d/148e_a000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1d50
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1d50
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7801
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7801
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04e8_680c
-LOCAL_SRC_FILES := usb_modeswitch.d/04e8_680c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1614_0800
-LOCAL_SRC_FILES := usb_modeswitch.d/1614_0800
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1805
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1805
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a401
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a401
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7031
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7031
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0b3c_f017
-LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_f017
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1033_0035
-LOCAL_SRC_FILES := usb_modeswitch.d/1033_0035
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1520
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1520
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0063
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0063
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_6327
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_6327
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d055
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d055
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0304
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0304
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d255
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d255
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7381
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7381
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0ace_20ff
-LOCAL_SRC_FILES := usb_modeswitch.d/0ace_20ff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 21f5_3010
-LOCAL_SRC_FILES := usb_modeswitch.d/21f5_3010
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0fce_d0cf
-LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d0cf
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04cc_226e
-LOCAL_SRC_FILES := usb_modeswitch.d/04cc_226e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1009
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1009
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0922_1003
-LOCAL_SRC_FILES := usb_modeswitch.d/0922_1003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6751
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6751
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_98ff
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_98ff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14c4
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c4
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5030
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5030
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0169
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0169
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14c5
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c5
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0471_1210_uMa.Philips
-LOCAL_SRC_FILES := usb_modeswitch.d/0471_1210_uMa.Philips
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.AnyDATA
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.AnyDATA
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_0101
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_0101
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8900
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8900
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1030
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1030
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d001
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_0007
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_0007
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_000f
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_000f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0fd1_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/0fd1_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_15cd
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15cd
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5023
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5023
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1b7d_0700
-LOCAL_SRC_FILES := usb_modeswitch.d/1b7d_0700
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7361
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7361
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_fff5
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_fff5
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8304
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8304
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0b3c_c700
-LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_c700
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1fac_0032
-LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0032
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_151a
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_151a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f1e
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1446
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1446
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_00ca
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_00ca
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1030
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1030
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_380b
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_380b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8201
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8201
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_6061_uPr.Storage
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_6061_uPr.Storage
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0053
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0053
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_android
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_android
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1010
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1010
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_f052
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_f052
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1414
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1414
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_0610
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_0610
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0408_ea17
-LOCAL_SRC_FILES := usb_modeswitch.d/0408_ea17
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_004f
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_004f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5059
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5059
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_156a
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_156a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1007
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1007
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1588
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1588
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d013
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d013
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_linux
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_linux
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 8888_6500
-LOCAL_SRC_FILES := usb_modeswitch.d/8888_6500
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0e8d_0002_uPr.Product
-LOCAL_SRC_FILES := usb_modeswitch.d/0e8d_0002_uPr.Product
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1dd6_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/1dd6_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7311
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7311
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04fc_2140
-LOCAL_SRC_FILES := usb_modeswitch.d/04fc_2140
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d033
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d033
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5010
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5010
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 057c_62ff
-LOCAL_SRC_FILES := usb_modeswitch.d/057c_62ff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1fac_0130
-LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0130
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1003
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6791
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6791
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_f000_uMa.USB_Modem
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_f000_uMa.USB_Modem
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_15e7
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15e7
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0408_f001
-LOCAL_SRC_FILES := usb_modeswitch.d/0408_f001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1175
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1175
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0045
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0045
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14fe
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14fe
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d157
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d157
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6711
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6711
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0b3c_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_0618
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_0618
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1449
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1449
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f1b
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 20a6_f00e
-LOCAL_SRC_FILES := usb_modeswitch.d/20a6_f00e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8800
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8800
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0120
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0120
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 201e_1023
-LOCAL_SRC_FILES := usb_modeswitch.d/201e_1023
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f07
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f07
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 106c_3b11
-LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b11
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1526
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1526
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c7_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/05c7_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8302
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8302
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1dbc_0669
-LOCAL_SRC_FILES := usb_modeswitch.d/1dbc_0669
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1f28_0021
-LOCAL_SRC_FILES := usb_modeswitch.d/1f28_0021
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_0632
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_0632
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_fff6
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_fff6
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1de1_1101
-LOCAL_SRC_FILES := usb_modeswitch.d/1de1_1101
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_2000
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_2000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_614e
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_614e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 22f4_0021
-LOCAL_SRC_FILES := usb_modeswitch.d/22f4_0021
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_0103
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_0103
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a805
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a805
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1232
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1232
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0fce_d0e1
-LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d0e1
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0e8d_0002_uPr.MT
-LOCAL_SRC_FILES := usb_modeswitch.d/0e8d_0002_uPr.MT
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7701
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7701
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_6503
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_6503
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14ba
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14ba
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_61e7
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_61e7
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_bccd
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_bccd
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.Option
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.Option
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_613a
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_613a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2357_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/2357_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1583
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1583
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1557
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1557
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 109b_f009
-LOCAL_SRC_FILES := usb_modeswitch.d/109b_f009
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04cc_225c
-LOCAL_SRC_FILES := usb_modeswitch.d/04cc_225c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1c24
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1c24
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0266
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0266
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f11
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f11
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_0622
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_0622
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7a05
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7a05
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1031
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1031
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0408_ea25
-LOCAL_SRC_FILES := usb_modeswitch.d/0408_ea25
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7011
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7011
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f01
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f01
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1009
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1009
+LOCAL_MODULE := 19d2_0101
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0101
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
@@ -1955,656 +19,48 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_ffde
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_ffde
+LOCAL_MODULE := 19d2_0053
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0053
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 257a_d000
-LOCAL_SRC_FILES := usb_modeswitch.d/257a_d000
+LOCAL_MODULE := 0af0_d001
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d001
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 0d46_45a5
-LOCAL_SRC_FILES := usb_modeswitch.d/0d46_45a5
+LOCAL_MODULE := 0fce_d0cf
+LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d0cf
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1521
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1521
+LOCAL_MODULE := 1004_614e
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_614e
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.Vertex
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.Vertex
+LOCAL_MODULE := 0922_1003
+LOCAL_SRC_FILES := usb_modeswitch.d/0922_1003
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 2077_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/2077_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_7001
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_7001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0408_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/0408_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1726_f00e
-LOCAL_SRC_FILES := usb_modeswitch.d/1726_f00e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1e0e_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/1e0e_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 16d8_700b
-LOCAL_SRC_FILES := usb_modeswitch.d/16d8_700b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f09
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f09
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 257a_a000
-LOCAL_SRC_FILES := usb_modeswitch.d/257a_a000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0003
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.Co.,Ltd
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.Co.,Ltd
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0408_ea43
-LOCAL_SRC_FILES := usb_modeswitch.d/0408_ea43
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0b3c_f00c
-LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_f00c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9e08
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9e08
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_61dd
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_61dd
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1fac_0150
-LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0150
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1553
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1553
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_6156
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_6156
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1782_0003
-LOCAL_SRC_FILES := usb_modeswitch.d/1782_0003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 07d1_a804
-LOCAL_SRC_FILES := usb_modeswitch.d/07d1_a804
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1238
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1238
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0103
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0103
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04cc_226f
-LOCAL_SRC_FILES := usb_modeswitch.d/04cc_226f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1233
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1233
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0fce_d103
-LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d103
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7251
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7251
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 257a_c000
-LOCAL_SRC_FILES := usb_modeswitch.d/257a_c000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1a8d_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/1a8d_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1517
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1517
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f15
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f15
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1266_1000
-LOCAL_SRC_FILES := usb_modeswitch.d/1266_1000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_061d
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_061d
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0df7_0800
-LOCAL_SRC_FILES := usb_modeswitch.d/0df7_0800
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6771
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6771
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0146
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0146
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 16d8_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/16d8_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_0001
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_0001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_0003
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_0003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a403
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a403
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_linux
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_linux
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2357_0200
-LOCAL_SRC_FILES := usb_modeswitch.d/2357_0200
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := ed09_1021
-LOCAL_SRC_FILES := usb_modeswitch.d/ed09_1021
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9e00
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9e00
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1171
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1171
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7111
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7111
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0ace_2011
-LOCAL_SRC_FILES := usb_modeswitch.d/0ace_2011
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.StrongRising
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.StrongRising
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.CELOT
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.CELOT
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_155a
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_155a
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 106c_3b14
-LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b14
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_022c
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_022c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14b7
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14b7
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_062c
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_062c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 04cc_2251
-LOCAL_SRC_FILES := usb_modeswitch.d/04cc_2251
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1199_0fff
-LOCAL_SRC_FILES := usb_modeswitch.d/1199_0fff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1fac_0151
-LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0151
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f1c
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1c
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 22de_6803
-LOCAL_SRC_FILES := usb_modeswitch.d/22de_6803
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0318
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0318
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0166
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0166
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d035
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d035
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14c1
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c1
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 16d8_6803
-LOCAL_SRC_FILES := usb_modeswitch.d/16d8_6803
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 22de_6801
-LOCAL_SRC_FILES := usb_modeswitch.d/22de_6801
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 057c_84ff
-LOCAL_SRC_FILES := usb_modeswitch.d/057c_84ff
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_15cf
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15cf
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 16d8_6281
-LOCAL_SRC_FILES := usb_modeswitch.d/16d8_6281
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 148f_2578
-LOCAL_SRC_FILES := usb_modeswitch.d/148f_2578
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f19
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f19
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0fce_d0df
-LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d0df
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a707
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a707
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1520
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1520
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6911
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6911
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1201
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1201
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0150
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0150
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14c3
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c3
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0408_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/0408_f000
+LOCAL_MODULE := 22f4_0021
+LOCAL_SRC_FILES := usb_modeswitch.d/22f4_0021
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
@@ -2619,440 +75,8 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_6190
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_6190
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 230d_000d
-LOCAL_SRC_FILES := usb_modeswitch.d/230d_000d
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0154
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0154
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1536
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1536
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2262_0001
-LOCAL_SRC_FILES := usb_modeswitch.d/2262_0001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 106c_3b05
-LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b05
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_c031
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_c031
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1017
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1017
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1c0b
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1c0b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1224
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1224
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1ab7_5700
-LOCAL_SRC_FILES := usb_modeswitch.d/1ab7_5700
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1225
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1225
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7301
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7301
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1216
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1216
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1542
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1542
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_101e
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_101e
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_1001
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_1001
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1227
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1227
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 106c_3b06
-LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b06
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_00a6
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_00a6
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0482_024d
-LOCAL_SRC_FILES := usb_modeswitch.d/0482_024d
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1da5_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/1da5_f000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9800
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9800
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 201e_2009
-LOCAL_SRC_FILES := usb_modeswitch.d/201e_2009
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2020_0002
-LOCAL_SRC_FILES := usb_modeswitch.d/2020_0002
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7211
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7211
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0149
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0149
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1076_7f40
-LOCAL_SRC_FILES := usb_modeswitch.d/1076_7f40
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_6000
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_6000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1bbb_f017
-LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_f017
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7501
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7501
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 257a_b000
-LOCAL_SRC_FILES := usb_modeswitch.d/257a_b000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_uMa.SSE
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.SSE
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0685_2000
-LOCAL_SRC_FILES := usb_modeswitch.d/0685_2000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2020_f00f
-LOCAL_SRC_FILES := usb_modeswitch.d/2020_f00f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_1000_sVe.GT
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_sVe.GT
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14ad
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14ad
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0413
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0413
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8700
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8700
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0fca_8020
-LOCAL_SRC_FILES := usb_modeswitch.d/0fca_8020
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 198f_bccd
-LOCAL_SRC_FILES := usb_modeswitch.d/198f_bccd
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1c9e_9d00
-LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9d00
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_7051
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7051
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 10a9_606f
-LOCAL_SRC_FILES := usb_modeswitch.d/10a9_606f
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_14b5
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14b5
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_8300
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8300
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 1edf_6003
-LOCAL_SRC_FILES := usb_modeswitch.d/1edf_6003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a80b
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a80b
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 0e8d_7109
-LOCAL_SRC_FILES := usb_modeswitch.d/0e8d_7109
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 198a_0003
-LOCAL_SRC_FILES := usb_modeswitch.d/198a_0003
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 2001_a706
-LOCAL_SRC_FILES := usb_modeswitch.d/2001_a706
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 23a2_1010
-LOCAL_SRC_FILES := usb_modeswitch.d/23a2_1010
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_2000
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_2000
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_0101
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0101
-LOCAL_MODULE_CLASS := ETC
-LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
-LOCAL_MODULE_TAGS := optional
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
-LOCAL_MODULE := 07d1_a800
-LOCAL_SRC_FILES := usb_modeswitch.d/07d1_a800
+LOCAL_MODULE := 12d1_1f1e
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1e
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
@@ -3067,16 +91,632 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1004_61aa
-LOCAL_SRC_FILES := usb_modeswitch.d/1004_61aa
+LOCAL_MODULE := 12d1_1526
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1526
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5055
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5055
+LOCAL_MODULE := 1307_1169
+LOCAL_SRC_FILES := usb_modeswitch.d/1307_1169
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d058
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d058
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7111
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7111
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f01
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f01
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 16d8_6803
+LOCAL_SRC_FILES := usb_modeswitch.d/16d8_6803
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0003
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0408_ea17
+LOCAL_SRC_FILES := usb_modeswitch.d/0408_ea17
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04e8_689a
+LOCAL_SRC_FILES := usb_modeswitch.d/04e8_689a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d057
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d057
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1521
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1521
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_613f
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_613f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1201
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1201
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1597
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1597
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1da1
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1da1
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1514
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1514
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_f000_uMa.USB_Modem
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_f000_uMa.USB_Modem
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0120
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0120
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a708
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a708
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ab7_5700
+LOCAL_SRC_FILES := usb_modeswitch.d/1ab7_5700
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d035
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d035
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0304
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0304
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.DGT
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.DGT
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2077_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/2077_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_sVe.GT
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_sVe.GT
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_9e00
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9e00
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04e8_680c
+LOCAL_SRC_FILES := usb_modeswitch.d/04e8_680c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_607f
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_607f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d055
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d055
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 057c_62ff
+LOCAL_SRC_FILES := usb_modeswitch.d/057c_62ff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2020_f00e
+LOCAL_SRC_FILES := usb_modeswitch.d/2020_f00e
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0922_1001
+LOCAL_SRC_FILES := usb_modeswitch.d/0922_1001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_011f
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_011f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0063
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0063
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7301
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7301
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_15d0
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15d0
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1582
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1582
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0103
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0103
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_9401
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9401
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 21f5_3010
+LOCAL_SRC_FILES := usb_modeswitch.d/21f5_3010
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_android
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_android
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1207
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1207
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1dbc_0669
+LOCAL_SRC_FILES := usb_modeswitch.d/1dbc_0669
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_4007
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_4007
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1f28_0021
+LOCAL_SRC_FILES := usb_modeswitch.d/1f28_0021
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1520
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1520
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14c5
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c5
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_2000
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_2000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1c24
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1c24
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0fd1_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/0fd1_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_155a
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_155a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7251
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7251
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.AnyDATA
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.AnyDATA
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1003
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2077_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/2077_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_0637
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_0637
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6911
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6911
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_f052
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_f052
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1171
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1171
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04cc_225c
+LOCAL_SRC_FILES := usb_modeswitch.d/04cc_225c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0003
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2357_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/2357_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0e8d_0002_uPr.MT
+LOCAL_SRC_FILES := usb_modeswitch.d/0e8d_0002_uPr.MT
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 22de_6803
+LOCAL_SRC_FILES := usb_modeswitch.d/22de_6803
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_98ff
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_98ff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7381
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7381
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0cf3_20ff
+LOCAL_SRC_FILES := usb_modeswitch.d/0cf3_20ff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f1c
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7071
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7071
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0ace_2011
+LOCAL_SRC_FILES := usb_modeswitch.d/0ace_2011
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1614_0800
+LOCAL_SRC_FILES := usb_modeswitch.d/1614_0800
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0471_1210_uMa.Wisue
+LOCAL_SRC_FILES := usb_modeswitch.d/0471_1210_uMa.Wisue
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1001
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1726_f00e
+LOCAL_SRC_FILES := usb_modeswitch.d/1726_f00e
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 106c_3b03
+LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b03
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 148f_2578
+LOCAL_SRC_FILES := usb_modeswitch.d/148f_2578
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1010
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1010
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 201e_1023
+LOCAL_SRC_FILES := usb_modeswitch.d/201e_1023
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04bb_bccd
+LOCAL_SRC_FILES := usb_modeswitch.d/04bb_bccd
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
@@ -3091,96 +731,512 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f03
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f03
+LOCAL_MODULE := 19d2_fff6
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_fff6
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1d09_1025
-LOCAL_SRC_FILES := usb_modeswitch.d/1d09_1025
+LOCAL_MODULE := 0fce_d0df
+LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d0df
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_d257
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d257
+LOCAL_MODULE := 12d1_1f09
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f09
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 12d1_1f1d
-LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1d
+LOCAL_MODULE := 1c9e_9800
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9800
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1038
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1038
+LOCAL_MODULE := 19d2_1580
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1580
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 0af0_6811
-LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6811
+LOCAL_MODULE := 1c9e_6061_uPr.Storage
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_6061_uPr.Storage
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 0421_0627
-LOCAL_SRC_FILES := usb_modeswitch.d/0421_0627
+LOCAL_MODULE := 0bdb_190d
+LOCAL_SRC_FILES := usb_modeswitch.d/0bdb_190d
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 05c6_9024
-LOCAL_SRC_FILES := usb_modeswitch.d/05c6_9024
+LOCAL_MODULE := 19d2_0154
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0154
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1ee8_0054
-LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0054
+LOCAL_MODULE := 19d2_1219
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1219
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1523
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1523
+LOCAL_MODULE := 12d1_14fe
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14fe
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1e89_f000
-LOCAL_SRC_FILES := usb_modeswitch.d/1e89_f000
+LOCAL_MODULE := 1a8d_2000
+LOCAL_SRC_FILES := usb_modeswitch.d/1a8d_2000
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 19d2_1013
-LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1013
+LOCAL_MODULE := 19d2_1001
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_61eb
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_61eb
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1033_0035
+LOCAL_SRC_FILES := usb_modeswitch.d/1033_0035
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8201
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8201
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1520
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1520
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_15e7
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15e7
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0930_0d46
+LOCAL_SRC_FILES := usb_modeswitch.d/0930_0d46
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 21f5_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/21f5_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d155
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d155
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14b7
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14b7
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 057c_84ff
+LOCAL_SRC_FILES := usb_modeswitch.d/057c_84ff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0471_1210_uMa.Philips
+LOCAL_SRC_FILES := usb_modeswitch.d/0471_1210_uMa.Philips
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1237
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1237
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14c4
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c4
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1232
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1232
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 16d8_6281
+LOCAL_SRC_FILES := usb_modeswitch.d/16d8_6281
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_c031
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_c031
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d013
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d013
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d357
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d357
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0325
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0325
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0018
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0018
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_15d2
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15d2
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_15ce
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15ce
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0388
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0388
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14ba
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14ba
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5020
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5020
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1031
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1031
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_6327
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_6327
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2020_0002
+LOCAL_SRC_FILES := usb_modeswitch.d/2020_0002
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0026
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0026
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0146
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0146
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0169
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0169
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0149
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0149
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6751
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6751
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0166
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0166
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_000b
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_000b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 10a9_606f
+LOCAL_SRC_FILES := usb_modeswitch.d/10a9_606f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.StrongRising
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.StrongRising
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_9200
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_9200
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7271
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7271
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8400
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8400
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2020_f00f
+LOCAL_SRC_FILES := usb_modeswitch.d/2020_f00f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0482_024d
+LOCAL_SRC_FILES := usb_modeswitch.d/0482_024d
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1076_7f40
+LOCAL_SRC_FILES := usb_modeswitch.d/1076_7f40
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f11
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f11
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8302
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8302
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1553
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1553
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1dd6_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/1dd6_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0b3c_f017
+LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_f017
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_6156
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_6156
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_1001
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_1001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f19
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f19
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_0618
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_0618
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
@@ -3195,6 +1251,558 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := 2357_0200
+LOCAL_SRC_FILES := usb_modeswitch.d/2357_0200
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_9e08
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9e08
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_9000
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_9000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7801
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7801
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_c100
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_c100
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7701
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7701
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_151a
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_151a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6971
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6971
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1542
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1542
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0045
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0045
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_613a
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_613a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f16
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f16
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2262_0001
+LOCAL_SRC_FILES := usb_modeswitch.d/2262_0001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1216
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1216
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 20b9_1682
+LOCAL_SRC_FILES := usb_modeswitch.d/20b9_1682
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_0103
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_0103
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 8888_6500
+LOCAL_SRC_FILES := usb_modeswitch.d/8888_6500
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1225
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1225
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0e8d_7109
+LOCAL_SRC_FILES := usb_modeswitch.d/0e8d_7109
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_15cd
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15cd
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1583
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1583
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 16d8_700b
+LOCAL_SRC_FILES := usb_modeswitch.d/16d8_700b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f18
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f18
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a706
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a706
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1233
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1233
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04cc_226e
+LOCAL_SRC_FILES := usb_modeswitch.d/04cc_226e
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a707
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a707
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1c0b
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1c0b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_6190
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_6190
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5031
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5031
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_9101
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9101
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7501
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7501
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_2004
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_2004
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14ad
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14ad
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_9020
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_9020
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5010
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5010
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1edf_6003
+LOCAL_SRC_FILES := usb_modeswitch.d/1edf_6003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8304
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8304
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5059
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5059
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_061d
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_061d
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0115
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0115
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7211
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7211
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1e0e_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/1e0e_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7601
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7601
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0040
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0040
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_157c
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_157c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14d1
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14d1
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_101e
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_101e
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8200
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8200
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.Vertex
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.Vertex
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_0627
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_0627
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1210
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1210
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7031
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7031
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1017
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1017
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a403
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a403
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_0610
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_0610
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_sVe.Option
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_sVe.Option
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a805
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a805
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_6503
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_6503
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0054
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0054
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14b5
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14b5
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0fca_8020
+LOCAL_SRC_FILES := usb_modeswitch.d/0fca_8020
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1199_0fff
+LOCAL_SRC_FILES := usb_modeswitch.d/1199_0fff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8900
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8900
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_000d
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_000d
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0408_ea25
+LOCAL_SRC_FILES := usb_modeswitch.d/0408_ea25
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_157d
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_157d
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f1b
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := 0af0_6731
 LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6731
 LOCAL_MODULE_CLASS := ETC
@@ -3203,8 +1811,704 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 16d8_700a
-LOCAL_SRC_FILES := usb_modeswitch.d/16d8_700a
+LOCAL_MODULE := 198f_bccd
+LOCAL_SRC_FILES := usb_modeswitch.d/198f_bccd
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0060
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0060
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1782_0003
+LOCAL_SRC_FILES := usb_modeswitch.d/1782_0003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 106c_3b11
+LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b11
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5055
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5055
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d255
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d255
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_000f
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_000f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0b3c_f00c
+LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_f00c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6811
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6811
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0198
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0198
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0408_ea43
+LOCAL_SRC_FILES := usb_modeswitch.d/0408_ea43
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1d09_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/1d09_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d257
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d257
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_00ca
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_00ca
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1175
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1175
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7011
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7011
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.Option
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.Option
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0040
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0040
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1266_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/1266_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1038
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1038
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 257a_d000
+LOCAL_SRC_FILES := usb_modeswitch.d/257a_d000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_linux
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_linux
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0d46_45a1
+LOCAL_SRC_FILES := usb_modeswitch.d/0d46_45a1
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1588
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1588
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0413
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0413
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7706
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7706
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_022c
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_022c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_004a
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_004a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1238
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1238
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7a05
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7a05
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14c3
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c3
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 15eb_7153
+LOCAL_SRC_FILES := usb_modeswitch.d/15eb_7153
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_61dd
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_61dd
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0009
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0009
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_6000
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_6000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 106c_3b05
+LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b05
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 148e_a000
+LOCAL_SRC_FILES := usb_modeswitch.d/148e_a000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04cc_2251
+LOCAL_SRC_FILES := usb_modeswitch.d/04cc_2251
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0b3c_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_0622
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_0622
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_7001
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_7001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1bbb_f017
+LOCAL_SRC_FILES := usb_modeswitch.d/1bbb_f017
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f03
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f03
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_0632
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_0632
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1de1_1101
+LOCAL_SRC_FILES := usb_modeswitch.d/1de1_1101
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_2000
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_2000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f07
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f07
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d157
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d157
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0e8d_0002_uPr.Product
+LOCAL_SRC_FILES := usb_modeswitch.d/0e8d_0002_uPr.Product
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.SSE
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.SSE
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1413
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1413
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1517
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1517
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7901
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7901
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0ace_20ff
+LOCAL_SRC_FILES := usb_modeswitch.d/0ace_20ff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_9d00
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9d00
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1013
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1013
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 16d8_6804
+LOCAL_SRC_FILES := usb_modeswitch.d/16d8_6804
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0083_uPr.WCDMA
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0083_uPr.WCDMA
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0d46_45a5
+LOCAL_SRC_FILES := usb_modeswitch.d/0d46_45a5
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1d09_1025
+LOCAL_SRC_FILES := usb_modeswitch.d/1d09_1025
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_155b
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_155b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_98ff
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_98ff
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5030
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5030
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6711
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6711
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7311
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7311
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f02
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f02
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_9024
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_9024
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6791
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6791
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1e89_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/1e89_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_0003
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_0003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d033
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d033
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0fce_d103
+LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d103
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04e8_f000_sMo.U209
+LOCAL_SRC_FILES := usb_modeswitch.d/04e8_f000_sMo.U209
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f15
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f15
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1536
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1536
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7361
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7361
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_ffde
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_ffde
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8006
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8006
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_380b
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_380b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0013
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0013
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 198a_0003
+LOCAL_SRC_FILES := usb_modeswitch.d/198a_0003
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 201e_2009
+LOCAL_SRC_FILES := usb_modeswitch.d/201e_2009
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1805
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1805
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0318
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0318
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_156a
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_156a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f1d
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f1d
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
@@ -3219,8 +2523,776 @@ LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := 1410_5031
-LOCAL_SRC_FILES := usb_modeswitch.d/1410_5031
+LOCAL_MODULE := 2001_a401
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a401
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5041
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5041
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 16d8_700a
+LOCAL_SRC_FILES := usb_modeswitch.d/16d8_700a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04fc_2140
+LOCAL_SRC_FILES := usb_modeswitch.d/04fc_2140
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1523
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1523
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 257a_a000
+LOCAL_SRC_FILES := usb_modeswitch.d/257a_a000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1fac_0130
+LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0130
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 106c_3b06
+LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b06
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1a8d_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/1a8d_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1511
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1511
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.SAMSUNG
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.SAMSUNG
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 109b_f009
+LOCAL_SRC_FILES := usb_modeswitch.d/109b_f009
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1414
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1414
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1227
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1227
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1c1b
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1c1b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.CELOT
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.CELOT
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a405
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a405
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1557
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1557
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0df7_0800
+LOCAL_SRC_FILES := usb_modeswitch.d/0df7_0800
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8800
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8800
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_a80b
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_a80b
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8700
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8700
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0bdb_1910
+LOCAL_SRC_FILES := usb_modeswitch.d/0bdb_1910
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0150
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0150
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_5023
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_5023
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 257a_c000
+LOCAL_SRC_FILES := usb_modeswitch.d/257a_c000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_1000_uMa.Co.,Ltd
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_1000_uMa.Co.,Ltd
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_004f
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_004f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_14c1
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_14c1
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 07d1_a804
+LOCAL_SRC_FILES := usb_modeswitch.d/07d1_a804
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_062c
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_062c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1fac_0151
+LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0151
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1009
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1009
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 20a6_f00e
+LOCAL_SRC_FILES := usb_modeswitch.d/20a6_f00e
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_2001
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_2001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_0266
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_0266
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7401
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7401
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_0101
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_0101
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_6771
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_6771
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 10a9_6080
+LOCAL_SRC_FILES := usb_modeswitch.d/10a9_6080
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 257a_b000
+LOCAL_SRC_FILES := usb_modeswitch.d/257a_b000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 07d1_a800
+LOCAL_SRC_FILES := usb_modeswitch.d/07d1_a800
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c6_0010
+LOCAL_SRC_FILES := usb_modeswitch.d/05c6_0010
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0408_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/0408_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1449
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1449
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0471_1237
+LOCAL_SRC_FILES := usb_modeswitch.d/0471_1237
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1d09_1021
+LOCAL_SRC_FILES := usb_modeswitch.d/1d09_1021
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1420
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1420
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_0001
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_0001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1fac_0032
+LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0032
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_fff5
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_fff5
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1446
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1446
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0b3c_c700
+LOCAL_SRC_FILES := usb_modeswitch.d/0b3c_c700
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0408_f001
+LOCAL_SRC_FILES := usb_modeswitch.d/0408_f001
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1ee8_0068
+LOCAL_SRC_FILES := usb_modeswitch.d/1ee8_0068
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_d031
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_d031
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_linux
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_linux
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1b7d_0700
+LOCAL_SRC_FILES := usb_modeswitch.d/1b7d_0700
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1224
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1224
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7a01
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7a01
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8300
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8300
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_15cf
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_15cf
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1c9e_9200
+LOCAL_SRC_FILES := usb_modeswitch.d/1c9e_9200
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1da5_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/1da5_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 04cc_226f
+LOCAL_SRC_FILES := usb_modeswitch.d/04cc_226f
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_7051
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_7051
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := ed09_1021
+LOCAL_SRC_FILES := usb_modeswitch.d/ed09_1021
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_61aa
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_61aa
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 23a2_1010
+LOCAL_SRC_FILES := usb_modeswitch.d/23a2_1010
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1179
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1179
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0421_060c
+LOCAL_SRC_FILES := usb_modeswitch.d/0421_060c
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1d50
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1d50
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1004_61e7
+LOCAL_SRC_FILES := usb_modeswitch.d/1004_61e7
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 2001_00a6
+LOCAL_SRC_FILES := usb_modeswitch.d/2001_00a6
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 05c7_1000
+LOCAL_SRC_FILES := usb_modeswitch.d/05c7_1000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0af0_8600
+LOCAL_SRC_FILES := usb_modeswitch.d/0af0_8600
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1009
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1009
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 106c_3b14
+LOCAL_SRC_FILES := usb_modeswitch.d/106c_3b14
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 16d8_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/16d8_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_ffe6
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_ffe6
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1fac_0150
+LOCAL_SRC_FILES := usb_modeswitch.d/1fac_0150
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 22de_6801
+LOCAL_SRC_FILES := usb_modeswitch.d/22de_6801
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1614_0802
+LOCAL_SRC_FILES := usb_modeswitch.d/1614_0802
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 1410_9022
+LOCAL_SRC_FILES := usb_modeswitch.d/1410_9022
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1030
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1030
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_bccd
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_bccd
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 230d_0007
+LOCAL_SRC_FILES := usb_modeswitch.d/230d_0007
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1030
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1030
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0408_f000
+LOCAL_SRC_FILES := usb_modeswitch.d/0408_f000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1007
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1007
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0fce_d0e1
+LOCAL_SRC_FILES := usb_modeswitch.d/0fce_d0e1
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 19d2_1528
+LOCAL_SRC_FILES := usb_modeswitch.d/19d2_1528
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1573
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1573
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 03f0_002a
+LOCAL_SRC_FILES := usb_modeswitch.d/03f0_002a
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 0685_2000
+LOCAL_SRC_FILES := usb_modeswitch.d/0685_2000
+LOCAL_MODULE_CLASS := ETC
+LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
+LOCAL_MODULE_TAGS := optional
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := 12d1_1f17
+LOCAL_SRC_FILES := usb_modeswitch.d/12d1_1f17
 LOCAL_MODULE_CLASS := ETC
 LOCAL_MODULE_PATH := $(TARGET_OUT)/etc/usb_modeswitch.d
 LOCAL_MODULE_TAGS := optional
