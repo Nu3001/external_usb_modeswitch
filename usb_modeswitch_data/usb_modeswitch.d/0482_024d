@@ -1,4 +1,2 @@
 # Kyocera W06K CDMA modem
 Configuration=2
-DefaultVendor=0x0482
-DefaultProduct=0x024d

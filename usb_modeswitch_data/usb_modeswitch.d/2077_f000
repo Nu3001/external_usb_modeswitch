@@ -3,5 +3,3 @@ TargetVendor=0x2077
 TargetProductList="9000,9062,a000"
 StandardEject=1
 MessageContent="55534243123456700000000000000616aa0000000000000000000000000000"
-DefaultVendor=0x2077
-DefaultProduct=0xf000

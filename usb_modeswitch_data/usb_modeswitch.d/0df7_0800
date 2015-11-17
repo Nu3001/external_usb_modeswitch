@@ -2,5 +2,3 @@
 TargetClass=0xff
 MobileActionMode=1
 NoDriverLoading=1
-DefaultVendor=0x0df7
-DefaultProduct=0x0800

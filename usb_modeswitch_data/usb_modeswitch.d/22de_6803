@@ -2,5 +2,3 @@
 TargetVendor=0x22de
 TargetProduct=0x6801
 StandardEject=1
-DefaultVendor=0x22de
-DefaultProduct=0x6803
