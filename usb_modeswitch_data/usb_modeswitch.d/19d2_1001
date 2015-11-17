@@ -3,5 +3,3 @@ TargetVendor=0x19d2
 TargetProductList="1002,1003"
 StandardEject=1
 NoDriverLoading=1
-DefaultVendor=0x19d2
-DefaultProduct=0x1001

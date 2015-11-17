@@ -1,1 +1,1 @@
-Android port of usb_modeswitch v 2.2.5
+Android port of usb_modeswitch v 2.2.6

@@ -2,5 +2,3 @@
 TargetVendor=0x2001
 TargetProductList="7d0b,7d0c"
 StandardEject=1
-DefaultVendor=0x2001
-DefaultProduct=0xa403

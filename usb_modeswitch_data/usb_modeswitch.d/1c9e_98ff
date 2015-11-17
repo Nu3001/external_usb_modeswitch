@@ -2,5 +2,3 @@
 TargetVendor=0x1c9e
 TargetProductList="6801,9801,9803"
 MessageContent="55534243123456780000000080000606f50402527000000000000000000000"
-DefaultVendor=0x1c9e
-DefaultProduct=0x98ff

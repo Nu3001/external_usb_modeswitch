@@ -2,5 +2,3 @@
 TargetVendor=0x23a2
 TargetProduct=0x1234
 MessageContent="555342431234567800000000000006161f6d62706b00000000000000000000"
-DefaultVendor=0x23a2
-DefaultProduct=0x1010

@@ -1,7 +1,11 @@
-
 History of USB_ModeSwitch
 =========================
 
+Version 2.2.6, 2015/11/01
+    Renamed function abort(), avoiding possible conflicts in static builds
+    with libjim (thanks, Gustavo Zacharias); removed storage class check of
+    interface 0 from dispatcher, enabling new multi-config devices in data
+    package 20151101
 Version 2.2.5, 2015/07/16
     Fixed bug in configuration check, possibly leading to segfault (thanks,
     Leonid Lisovskiy); fixed Pantech commandline parameter evaluation (was
@@ -83,7 +87,7 @@ Version 1.2.5, 2012/11/09
     prevents the check per device in case of problems; new global option
     to set "delay_use" of usb-storage (as low values may prevent
     mode-switching); fix for handling multi-configuration devices (thanks
-    to Bjørn Mork for advice)
+    to BjÃ¸rn Mork for advice)
 Version 1.2.4, 2012/08/12
     Additional interface checks to prevent sending UFI commands to non-
     storage interfaces (prompted by more ambiguous device IDs popping up);
