@@ -4,5 +4,3 @@ TargetProduct=0x90cc
 MessageEndpoint=0x02
 MessageContent="01b0000000000000000000000000000000000000000000000000000000000000"
 NoDriverLoading=1
-DefaultVendor=0x072f
-DefaultProduct=0x100d

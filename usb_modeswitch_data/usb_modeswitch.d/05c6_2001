@@ -2,5 +2,3 @@
 TargetVendor=0x1e0e
 TargetProductList="ce16,ce17,cefe"
 StandardEject=1
-DefaultVendor=0x05c6
-DefaultProduct=0x2001

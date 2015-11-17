@@ -4,5 +4,3 @@ TargetProductList="1002,1007,1009,100d,2006"
 StandardEject=1
 ReleaseDelay=4000
 NeedResponse=1
-DefaultVendor=0x1a8d
-DefaultProduct=0x1000

@@ -2,5 +2,3 @@
 TargetVendor=0x12d1
 TargetProductList="140b,140c,1506,150f,150a"
 HuaweiNewMode=1
-DefaultVendor=0x12d1
-DefaultProduct=0x1505

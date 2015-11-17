@@ -2,5 +2,3 @@
 TargetVendor=0x0fca
 TargetProduct=0x8012
 BlackberryMode=1
-DefaultVendor=0x0fca
-DefaultProduct=0x8020
