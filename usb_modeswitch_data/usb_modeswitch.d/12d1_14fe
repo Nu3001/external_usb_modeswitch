@@ -1,4 +1,17 @@
 # Huawei E352 (T-Mobile NL), E173s (Variant)
-TargetVendor=0x12d1
+#TargetVendor=0x12d1
+#TargetProductList="1506,150f,151d,1c1e"
+#HuaweiNewMode=1
+
+# Revert back to the older Message Setting for these devices
+# Huawei, newer modems, and rebrandings
+
+DefaultVendor= 0x12d1
+DefaultProduct=0x14fe
+
+TargetVendor= 0x12d1
 TargetProductList="1506,150f,151d,1c1e"
-HuaweiNewMode=1
+
+CheckSuccess=20
+
+MessageContent="55534243123456780000000000000011060000000000000000000000000000"
