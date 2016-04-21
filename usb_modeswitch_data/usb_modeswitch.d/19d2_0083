@@ -1,0 +1,11 @@
+# ZTE MF110 (Variant)
+
+DefaultVendor= 0x19d2
+DefaultProduct=0x0083
+
+TargetVendor=  0x19d2
+TargetProduct= 0x0124
+
+CheckSuccess=20
+
+MessageContent="55534243f8f993882000000080000a85010101180101010101000000000000"
