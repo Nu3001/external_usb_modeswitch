@@ -1,0 +1,6 @@
+# ZTE MFxxx
+TargetVendor=0x19d2
+TargetProductList="1268,2003"
+StandardEject=1
+DefaultVendor=0x19d2
+DefaultProduct=0x1232

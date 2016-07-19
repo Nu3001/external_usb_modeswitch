@@ -1,0 +1,6 @@
+# Novatel MC760 3G
+TargetVendor=0x1410
+TargetProduct=0x6002
+StandardEject=1
+DefaultVendor=0x1410
+DefaultProduct=0x5031

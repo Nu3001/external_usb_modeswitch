@@ -1,0 +1,6 @@
+# Vodafone / Huawei K4203
+TargetVendor=0x12d1
+TargetProductList="157a,1590"
+HuaweiNewMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0x1f1c

@@ -1,0 +1,6 @@
+# D-Link DWM-158 D1
+TargetVendor=0x2001
+TargetProduct=0x7d03
+StandardEject=1
+DefaultVendor=0x2001
+DefaultProduct=0xa708

@@ -1,0 +1,5 @@
+# Haier CE 100 
+TargetClass=0xff
+StandardEject=1 
+DefaultVendor=0x201e
+DefaultProduct=0x2009

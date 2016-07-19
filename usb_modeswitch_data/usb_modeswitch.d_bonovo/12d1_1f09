@@ -1,0 +1,7 @@
+# Huawei/Vodafone R216
+TargetVendor=0x12d1
+TargetProduct=0x1c50
+HuaweiNewMode=1
+NoDriverLoading=1
+DefaultVendor=0x12d1
+DefaultProduct=0x1f09

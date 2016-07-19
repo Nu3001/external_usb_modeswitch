@@ -1,0 +1,4 @@
+# Teracom LW272
+Configuration=2
+DefaultVendor=0x230d
+DefaultProduct=0x0103

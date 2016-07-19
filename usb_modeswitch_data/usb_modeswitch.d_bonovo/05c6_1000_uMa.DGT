@@ -1,0 +1,6 @@
+# Celot CT-680
+TargetVendor=0x211f
+TargetProduct=0x6802
+StandardEject=1
+DefaultVendor=0x05c6
+DefaultProduct=0x1000

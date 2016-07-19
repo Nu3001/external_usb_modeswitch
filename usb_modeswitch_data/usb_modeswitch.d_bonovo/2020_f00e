@@ -1,0 +1,7 @@
+# SpeedUp SU-8000
+TargetVendor=0x2020
+TargetProduct=0x1008
+StandardEject=1
+WaitBefore=2
+DefaultVendor=0x2020
+DefaultProduct=0xf00e

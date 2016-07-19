@@ -1,0 +1,6 @@
+# Nokia CS-11
+TargetVendor=0x0421
+TargetProduct=0x061e
+StandardEject=1
+DefaultVendor=0x0421
+DefaultProduct=0x061d

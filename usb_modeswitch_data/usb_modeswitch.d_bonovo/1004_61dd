@@ -1,0 +1,6 @@
+# LG L-02C LTE
+TargetVendor=0x1004
+TargetProduct=0x618f
+StandardEject=1
+DefaultVendor=0x1004
+DefaultProduct=0x61dd

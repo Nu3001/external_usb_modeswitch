@@ -1,0 +1,12 @@
+# ZTE MF668 (Variant), MF70
+DefaultVendor=0x19d2
+DefaultProduct=0x1225 
+
+TargetVendor=0x19d2
+TargetProduct=0x1405
+
+MessageContent="55534243123456782000000080000c85010101180101010101000000000000"
+
+StandardEject=1
+DefaultVendor=0x19d2
+DefaultProduct=0x1225
