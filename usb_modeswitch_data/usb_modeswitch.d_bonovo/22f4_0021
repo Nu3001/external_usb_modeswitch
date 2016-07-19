@@ -1,0 +1,5 @@
+# Tata Photon+
+TargetClass=0xff
+StandardEject=1
+DefaultVendor=0x22f4
+DefaultProduct=0x0021

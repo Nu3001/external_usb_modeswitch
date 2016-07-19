@@ -1,0 +1,6 @@
+# LG LUU-2110TI
+TargetVendor=0x1004
+TargetProduct=0x6157
+StandardEject=1
+DefaultVendor=0x1004
+DefaultProduct=0x6156

@@ -1,0 +1,5 @@
+# Huawei generic for Android
+TargetVendor= 0x12d1
+MessageContent="55534243123456780000000000000011063000000100010000000000000000"
+DefaultVendor=0x12d1
+DefaultProduct=0xandroid

@@ -1,0 +1,5 @@
+# Huawei ETS1201
+TargetClass=0xff
+HuaweiMode=1
+DefaultVendor=0x12d1
+DefaultProduct=0x1010

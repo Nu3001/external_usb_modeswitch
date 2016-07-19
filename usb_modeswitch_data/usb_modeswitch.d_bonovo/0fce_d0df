@@ -1,0 +1,4 @@
+# Sony Ericsson EC400
+Configuration=2
+DefaultVendor=0x0fce
+DefaultProduct=0xd0df

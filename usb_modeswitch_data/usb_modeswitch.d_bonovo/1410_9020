@@ -1,0 +1,4 @@
+# Novatel U620L
+Configuration=2
+DefaultVendor=0x1410
+DefaultProduct=0x9020

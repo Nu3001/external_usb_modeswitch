@@ -1,0 +1,6 @@
+# Axesstel Modems (w/ initial idProduct 0x0010)
+TargetVendor=0x05c6
+TargetProduct=0x00a0
+StandardEject=1
+DefaultVendor=0x05c6
+DefaultProduct=0x0010

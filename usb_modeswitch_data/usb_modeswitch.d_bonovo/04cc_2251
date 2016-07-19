@@ -1,0 +1,6 @@
+# Alcatel-Lucent ABS-T920
+TargetVendor=0x04cc
+TargetProductList="2259,226e"
+StandardEject=1
+DefaultVendor=0x04cc
+DefaultProduct=0x2251

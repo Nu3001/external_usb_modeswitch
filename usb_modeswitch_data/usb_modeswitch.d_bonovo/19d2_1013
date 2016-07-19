@@ -1,0 +1,7 @@
+# Vodafone (ZTE) K3806-Z
+TargetVendor=0x19d2
+TargetProduct=0x1015
+StandardEject=1
+NoDriverLoading=1
+DefaultVendor=0x19d2
+DefaultProduct=0x1013
